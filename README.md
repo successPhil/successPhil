@@ -26,13 +26,13 @@ As a full stack developer, I have created several React/Django projects utilizin
 
 A remake of the original Pokémon Red/Blue on Gameboy with a twist to the moves, types, items, and shop.
 
-- **Demo:** [Link to Demo 1](link-to-demo-1)
+![pokemon-ko](https://github.com/successPhil/demo-gifs/blob/main/pokemon-ko-demo.gif?raw=true)
 
-### Project 2: [Project Name 2](link-to-project-2)
 
-Brief description of Project 2.
+### Project 2: [Machbuster](https://github.com/successPhil/movietracker)
 
-- **Demo:** [Link to Demo 2](link-to-demo-2)
+A movie application that lets you search movies and add them to your watchlist
+
 
 ## Connect with Me
 
