@@ -34,6 +34,32 @@ A remake of the original Pokémon Red/Blue on Gameboy with a twist to the moves,
 <img src="https://github.com/successPhil/demo-gifs/blob/main/machbuster-demo.gif?raw=true" alt="machbuster-demo">
 A movie application that lets you search movies and add them to your watchlist
 
+<img src="https://github-readme-stats.vercel.app/api?username=successPhil&theme=midnight-purple&show_icons=true" alt="successPhil-grade">
+
+<img src="https://raw.githubusercontent.com/successPhil/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="successPhil-stats"> <img src="https://raw.githubusercontent.com/successPhil/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="successPhil-lang">
+
+<div class="project-container">
+  <div class="top-image">
+    <a href="https://github.com/successPhil/movietracker">
+      <img src="https://github.com/successPhil/demo-gifs/blob/main/machbuster-demo.gif?raw=true" alt="machbuster-demo">
+    </a>
+  </div>
+  <div class="side-by-side-images">
+    <div class="github-stats">
+      <a href="https://github.com/successPhil">
+        <img src="https://github-readme-stats.vercel.app/api?username=successPhil&theme=midnight-purple&show_icons=true" alt="successPhil-grade">
+      </a>
+    </div>
+    <div class="languages-stats">
+      <a href="https://github.com/successPhil">
+        <img src="https://raw.githubusercontent.com/successPhil/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="successPhil-stats">
+        <img src="https://raw.githubusercontent.com/successPhil/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="successPhil-lang">
+      </a>
+    </div>
+  </div>
+</div>
+
+
 ## Connect with Me
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/phillip-basti/)
