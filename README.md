@@ -23,16 +23,16 @@ As a full stack developer, I have created several React/Django projects utilizin
 ## Projects
 
 ### [Pokémon KO](https://github.com/successPhil/PokemonKO-prod)
+<img src="https://github.com/successPhil/demo-gifs/blob/main/pokemon-ko-demo.gif?raw=true" alt="pokemonko-demo">
 
 A remake of the original Pokémon Red/Blue on Gameboy with a twist to the moves, types, items, and shop.
 
-![pokemon-ko](https://github.com/successPhil/demo-gifs/blob/main/pokemon-ko-demo.gif?raw=true)
+
 
 
 ### [Machbuster](https://github.com/successPhil/movietracker)
+<img src="https://github.com/successPhil/demo-gifs/blob/main/machbuster-demo.gif?raw=true" alt="machbuster-demo">
 A movie application that lets you search movies and add them to your watchlist
-
-![machbuster](https://github.com/successPhil/demo-gifs/blob/main/machbuster-demo.gif?raw=true)
 
 ## Connect with Me
 
