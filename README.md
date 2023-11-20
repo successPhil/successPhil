@@ -18,7 +18,7 @@ As a full stack developer, I have created several React/Django projects utilizin
 - Containerization through Docker
 - Deployment through Amazon Web Services (AWS)
 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=yellow) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=yellow) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## Projects
 
