@@ -125,7 +125,8 @@ A movie application that lets you search movies and add them to your watchlist s
 <h3>
 Feel free to explore my repositories and connect with me on:
  </h3>
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/phillip-basti/" height="33"/>
+ <a href="https://www.linkedin.com/in/phillip-basti/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="33"/></a>
+
 
 
 
