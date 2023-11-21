@@ -33,7 +33,8 @@ As a full stack developer, I have created several React/Django projects utilizin
 <div align="center"> 
     
  <div align="center">
-   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" height="42px" />
+  <a href="https://github.com/successPhil/PokemonKO-prod" style="text-decoration: none;">
+   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" height="42px" /></a>
    <h2><a href="https://github.com/successPhil/PokemonKO-prod" style="text-decoration: none;"><strong>Pokémon KO</strong></a></h2
  </div>
 
@@ -63,7 +64,8 @@ A remake of the original Pokémon Red/Blue on Gameboy with a twist to the moves,
 
 <div align="center">
  <div>
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" height="44px" />
+  <a href="https://github.com/successPhil/movietracker" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" height="44px" /></a>
  <h2><a href="https://github.com/successPhil/movietracker" style="text-decoration: none;"><strong>Machbuster</strong></a></h2>
  </div>
 
